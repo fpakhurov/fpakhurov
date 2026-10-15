@@ -21,8 +21,9 @@ The code is internal; the full cases are at [fpakhurov.com/work](https://fpakhur
 
 ## Course notes
 
-Written for my HSE courses. Each note goes problem → baseline → mechanism → example → limitations.
+Courses linked by prerequisites, starting from Probability Theory. Inside each course the notes follow one line, each method answering the failure of the previous one. The NLP and Generative Models notes accompany my HSE courses.
 
+- [Probability Theory](https://fpakhurov.com/notes/probability/) — from counting to the limit theorems, and how they become the losses, estimates and guarantees of machine learning.
 - [Natural Language Processing](https://fpakhurov.com/notes/nlp/) — from tokenization and representations to Transformers, RAG and agents.
 - [Generative Models](https://fpakhurov.com/notes/generative-models/) — likelihoods, latent variables, VAEs, GANs, flows and diffusion models.
 
